@@ -1,8 +1,7 @@
+
 # じゃんけんカードVR
 
-VRコントローラーまたはハンドトラッキングを使い、カードを**物理的に掴んで**モンスターを召喚・バトルさせるじゃんけん型VRカードゲームです。
-
-[![プレイ動画](https://img.shields.io/badge/▶%20プレイ動画-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/eWschWKRJhg)
+ハンドトラッキングを使いでカードを**物理的に掴んで**モンスターを召喚・バトルさせるVRカードゲームです。
 
 ---
 
@@ -19,12 +18,18 @@ VRコントローラーまたはハンドトラッキングを使い、カード
 | ジャンル | VR カードバトル |
 | プラットフォーム | Meta Quest 2 |
 | プレイ人数 | 1人（CPU対戦） |
-| 操作方法 | VRコントローラーグラブ / ハンドトラッキング |
+| 操作方法 | ハンドトラッキング |
 | 勝利条件 | 敵のライフ（♥×3）を先に0にする |
+
+<img width="724" height="481" alt="スクリーンショット 2023-08-09 234804" src="https://github.com/user-attachments/assets/f02bdcd3-d6db-4d64-8281-77c044a800f9" />
+
 
 モンスターカードには**グー・チョキ・パー**のいずれかが割り当てられており、
 VR空間でカードを手で引いてベンチに並べ、1枚を選んでバトル場に出すことで
 じゃんけん判定が行われます。
+
+カード裏面
+<img width="439" height="714" alt="CardBack_03" src="https://github.com/user-attachments/assets/9a036934-8bc1-46df-8e0d-547829b81b3f" />
 
 ---
 
