@@ -1,0 +1,7 @@
+SSS-Nail-Palm-Mask.
+Can be used to affect coloring of the nails and palm as well as drive SSS
+Red Channel - SSS
+Green Channel - Nails Mask
+Blue Channel - Palm Mask
+
+Works with the skinShader added to the project.

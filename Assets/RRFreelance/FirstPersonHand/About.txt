@@ -1,0 +1,50 @@
+FirstPersonHand - VR Ready - RRFreelance
+
+
+Planned:
+Accessories(Watches, rings, more tattoos and more blood/dirt/scar variation textures. (Perhaps anotehr upgrade to the shader to include extra normal maps for dirt/scarring)
+
+Version 1.3 12th March 2021: Added an updated version of the mesh with the nails properly intact. I felt the shader wasn't pushing the SSS effecto properly so reworked a simple SSS effect.
+Use the SSS control values and the Bias to control this, A low Bias will affect the backlit effect more (better for thinner materials). These Hand shaders cand also be used for other things!
+
+Version 1.2 20th May 2020
+Added vertex push version of the shader if you want to fatten up the hand it reads the red channel of the vertex coloring. All meshes have hidden vertex colour which can be utilised. 
+The _VColFingers hand contains pre-painted reddish vert coloring in the hands and even more in the fingers. You can use the shader _PushVColRed and there is a slider there for the amount.
+Be careful with his as I modelled the nails as sub-meshes in hope to swap them out later, they too get pushed. The orignal hand has default white vert colours so it will work on that too, 
+only it will puff-out/push out the whole hand, which you might prefer.
+
+
+Version 1.1 29th Nov 2018
+New Blood slot added for the texturing, you can now slide blood/glossyness in to the mix.
+Updated how the nails blend when color is added in.
+Fixed animations.
+Updated some scripts that control the blood mixing as an example of how it can be done by code. (You can test this by playing the demo scene).
+
+
+
+Version 1.0
+
+This is the First Person Hand, more in tune with VR Design.
+
+The Hand comes with Several poses that can be mapped to the user inputs based on 
+your code. This pack currently contains no scripting but has everything else in place.
+Animations can be blended between poses however you see fit.
+
+For the opposite hand, a copy of the prefab has been made with -1 on the X-Scale.
+3 materials onver 2 albedo textures have been created for skin tone variation.
+
+A script that rotates around an objects point in the scene is included. 
+Add an empty game object there and also to the slot in the script when you add it to the camera to act at the target.
+
+Future Updates planned:More Skin Textures, Props and Poses if suggested my email.
+
+Please Rate based on your Review, if you have any technical issues, please contact me
+by email: me@robertramsay.co.uk
+
+Reviews that act as a negative becuase of a potential bug-fix that can be
+sorted by a simple email will be reported. I intend on delivering the best directly 
+to my customers so you have been advised to contact me first.
+
+Robert Ramsay.
+
+Disclaimer: This product is advertised as-is and contains no code-based solution for VR or other controller or input based solution at the time of writing.

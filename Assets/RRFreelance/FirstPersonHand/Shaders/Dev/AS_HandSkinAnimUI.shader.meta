@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ca677f9c135974d4394a067a09367008
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _UIAnimSheet: {fileID: 2800000, guid: a419be70b58de6c4383157a02c94188c, type: 3}
+  - _AnimationMaskArea: {fileID: 2800000, guid: 5855108d35ed3654eb38d10e716b66ce,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
